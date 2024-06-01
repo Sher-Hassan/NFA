@@ -1,0 +1,123 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2160 2160" width="2160" height="2160">
+	<title>6s-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m2040 2160h-1920v-2160h1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #000000 } 
+		.s1 { fill: #ffffff } 
+		.t2 { font-size: 53px;fill: #000000;font-family: "Gotham  Cond" } 
+		.t3 { font-size: 79px;fill: #000000;font-family: "Gotham  Cond" } 
+	</style>
+	<g id="Layer 1">
+		<g id="Clip-Path: &lt;Clip Group&gt;" clip-path="url(#cp1)">
+			<g id="&lt;Clip Group&gt;">
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="2">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+					<g id="3">
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<path id="&lt;Path&gt;" class="s0" d="m2040 1642h-1920v-1080h1920z"/>
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m123.7 592.9v-72.6h1912.6v72.6z"/>
+					<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m2040 596.6h-1920v-80h1920zm-1912.6-72.6v65.2h1905.2v-65.2z"/>
+				</g>
+				<text id="don’t be weird, don’t be gay - $NFA - gay is a disease, watch out! - $NFA - can we trust gays? NO! - $NFA - I love women
+" style="transform: matrix(1,0,0,1,117.747,573.062)" >
+					<tspan x="0" y="0" class="t2">don’t be weird, don’t be gay - $NFA - gay is a disease, watch out! - $NFA - can we trust gays? NO! - $NFA - I love women
+</tspan>
+				</text>
+			</g>
+		</g>
+		<g id="4">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m123.5 1638.5v-133.8h1913v133.8z"/>
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m2040 1642h-1920v-140.8h1920zm-1913-133.8v126.8h1906v-126.8z"/>
+			</g>
+			<text id="01/06/2024
+" style="transform: matrix(1,0,0,1,1739.805,1575.638)" >
+				<tspan x="0" y="0" class="t2">01/06/2024
+</tspan>
+			</text>
+			<text id="Start
+" style="transform: matrix(1,0,0,1,130.805,1594.952)" >
+				<tspan x="0" y="0" class="t3">Start
+</tspan>
+			</text>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m311.9 1642h-191.9v-140.8h191.9zm-184.8-133.8v126.7h177.7v-126.7z"/>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m2040 1642h-311.6v-140.8h311.6zm-304.6-133.8v126.8h297.6v-126.8z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    overflow: hidden;
+}
+.anim{
+    transition: all 0.2s ease;
+}
+.anim:hover{
+    transform: scale(1.1);
+}
+.navtab {
+    width: 100.2vw;
+    position: relative;
+    left: -0.1vw;
+    top: -0.2vw;
+}
+.nav1 {
+    position: relative;
+    overflow-x: hidden;
+}
+.tab_head {
+    width: 44vw;
+    position: relative;
+    top: -5.5vw;
+    left: 1vw;
+}
+.tab_head {
+    width: 44vw;
+    position: relative;
+    top: -7.5vw;
+    left: 1vw;
+}
+.dex {
+    position: relative;
+    width: 5vw;
+    top: -6.5vw;
+    left: 34.3vw;
+}
+.tele {
+    width: 9.8vw;
+    position: relative;
+    top: -6.5vw;
+    left: 33.5vw;
+}
+.twit {
+    width: 4.8vw;
+    position: relative;
+    top: -7vw;
+    left: 33.5vw;
+}
+nav{
+    height: 8vw;
+}
+.sec1dv{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.nofgal {
+    width: 80vw;
+    position: relative;
+    top: 5vw;
+}
+#sec1 {
+    height: 48vw;
+    position: relative;
+    overflow-x: hidden;
+}
+#sec2{
+    overflow-x: hidden;
+}
+.sec1imgs {
+    position: relative;
+    top: 17vw;
+    gap: 32vw;
+    display: flex;
+}
+.polblow {
+    width: 31vw;
+}
+.theiffuck {
+    width: 37vw;
+}
+.frame1 {
+    width: 100vw;
+}
+.tab2head{
+    position: absolute;
+    left: 0.2vw;
+    top: .2vw;
+    width: 99.7vw;
+}
+.sec2dv{
+    position: relative;
+    height: 58.6vw;
+    overflow: hidden;
+}
+.nfa {
+    position: relative;
+    top: -47vw;
+    width: 52vw;
+    left: 33vw;
+}
+.sec2imgs {
+    display: flex;
+    position: absolute;
+    left: 0;
+    gap: 31vw;
+    top: 24vw;
+}
+.saynotofags {
+    width: 31vw;
+}
+.polmanman {
+    width: 35vw;
+    height: 24vw;
+    position: relative;
+    top: 3vw;
+}
+.imgsdta {
+    position: absolute;
+    left: 0;
+    font-size: 3.15vw;
+    top: 53vw;
+    display: flex;
+    gap: 77.2vw;
+    padding-left: 1vw;
+}

@@ -1,0 +1,114 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 2160" width="800" height="800">
+	<title>website-ai</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1920 2160h-1920v-2160h1920z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(422.418,0,0,198.171,462.201,981.171)">
+			<stop offset="0" stop-color="#f600ff"/>
+			<stop offset=".2" stop-color="#1e00bf"/>
+			<stop offset=".4" stop-color="#006b7f"/>
+			<stop offset=".6" stop-color="#00dc3d"/>
+			<stop offset=".8" stop-color="#f8f500"/>
+			<stop offset="1" stop-color="#d40b00"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: url(#g1);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="2">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="3">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Compound Path&gt;" class="s0" d="m162.8 984.2h44.7l27.4 79v-79h44v192.1h-42.6l-29.4-83.7v83.7h-44.1z"/>
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m288.7 1086.8v-13.1c0-61.8 22.8-93.4 60.1-93.4 37.4 0 60.2 31.6 60.2 93.4v13.1c0 62.4-22.8 93.4-60.2 93.4-37.3 0-60.1-31-60.1-93.4zm73.6 0.9v-14.9c0-42.5-4.9-50.2-13.5-50.2-7.9 0-13.1 7.7-13.1 50.2v14.9c0 42.5 5.2 50.2 13.1 50.2 8.6 0 13.5-7.7 13.5-50.2z"/>
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m462.2 984.2h85.9v43.4h-40.1v31.5h35.4v42.3h-35.4v74.9h-45.8zm114.2-0.3h54.1l36.5 192.5h-45.6l-4.7-32.4h-27.7l-4.7 32.4h-44.4zm34.8 122.1l-8.5-58.7-8.2 58.7zm53-18.9v-13.5c0-60.6 31.5-92.2 71.1-92.2 15.3 0 26 3 35.1 8.2v45.9c-9.6-6.4-19.8-10.5-30.5-10.5-17.3 0-28.8 13.8-28.8 47.8v15.1c0 40.3 11 49.7 20.9 49.7 1.3 0 2.4-0.6 3.3-0.9v-34.8h-13.2v-40.4h54.6v105.2c-13.2 6.8-28.3 12.3-45 12.3-38.2 0-67.5-29.1-67.5-91.9zm124 81.8v-45.3c11.8 7.4 24.7 12 36.5 12 9.1 0 13.8-3.8 13.8-11.5v-0.5c0-6.3-4.7-11.6-15.4-21.2-25.3-21.1-37.6-35.1-37.6-62.8v-1.9c0-34.9 23-56.6 54.9-56.6 15.6 0 26.9 2.8 36.5 7.1v45.9c-11.3-6.3-21.7-9.3-31.9-9.3-8.5 0-13.4 4.6-13.4 10.9v0.6c0 6.3 4.4 11.2 15.6 21.1 25.6 22.8 37.4 36.8 37.4 64v1.9c0 33.8-25 56-54.9 56-15.7 0-30.8-4.1-41.5-10.4z"/>
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m965 983.9h54.1l36.5 192.4h-45.5l-4.7-32.4h-27.7l-4.7 32.4h-44.5zm34.9 122.2l-8.5-58.8-8.3 58.8z"/>
+				<path id="&lt;Compound Path&gt;" class="s0" d="m1060 984.2h45.8v148.8h37.4v43.3h-83.2z"/>
+				<path id="&lt;Compound Path&gt;" class="s0" d="m1151.7 984.2h45.8v148.8h37.3v43.3h-83.1z"/>
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m1234.8 1086.8v-13.1c0-61.8 22.8-93.4 60.2-93.4 37.3 0 60.1 31.6 60.1 93.4v13.1c0 62.4-22.8 93.4-60.1 93.4-37.4 0-60.2-31-60.2-93.4zm73.6 0.9v-14.9c0-42.5-4.9-50.2-13.4-50.2-8 0-13.2 7.7-13.2 50.2v14.9c0 42.5 5.2 50.2 13.2 50.2 8.5 0 13.4-7.7 13.4-50.2z"/>
+				<path id="&lt;Compound Path&gt;" class="s0" d="m1354 984.2h47.7l10.7 106.2 13.2-106.2h38.2l13.1 106.2 10.7-106.2h47.2l-30.1 192.4h-47.8l-12.6-86.2-12.7 86.2h-47.4z"/>
+				<path id="&lt;Compound Path&gt;" class="s0" d="m1540.1 984.2h89.2v43.4h-43.4v31h38.7v42.2h-38.7v32.2h44.2v43.3h-90z"/>
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m1640.2 984.2h42.9c49.4 0 74.3 32.1 74.3 90.6v10.9c0 58.5-24.9 90.6-74.3 90.6h-42.9zm70.3 90.1c0-38.5-10.2-47.8-24.4-47.8v107.6c14.2 0 24.4-9.9 24.4-47.8z"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="4">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+				</g>
+				<g id="&lt;Group&gt;">
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+		</g>
+		<g id="&lt;Group&gt;">
+		</g>
+	</g>
+</svg>
